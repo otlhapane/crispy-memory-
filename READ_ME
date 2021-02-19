@@ -1,0 +1,19 @@
+thank you for checking out my repo. 
+within crispy memory are two python games, you will need python 3 to run both games.
+
+the first game is the is battleships you can run this from a python shell.
+
+the second game is an alien invasion shooter game
+you willl need the following files to run the game:
+
+alien_invasion.py
+alien.py
+ship.py
+game_functions.py
+scoreboard.py
+game_stats.py
+settings.py
+button.py 
+
+ship.bmp
+alien.bmp
